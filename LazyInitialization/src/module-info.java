@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mchaconr
+ *
+ */
+module LazyInitialization {
+}
